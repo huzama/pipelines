@@ -56,6 +56,7 @@ class Pipeline:
             {"id": "gemini-1.5-pro-002", "name": "Gemini 1.5 Pro"},
             {"id": "gemini-flash-experimental", "name": "Gemini 1.5 Flash Experimental"},
             {"id": "gemini-pro-experimental", "name": "Gemini 1.5 Pro Experimental"},
+            {"id": "gemini-2.0-pro-exp-02-05", "name": "Gemini 2.0 Pro Experimental"}
         ]
 
     async def on_startup(self) -> None:
